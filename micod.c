@@ -2,7 +2,7 @@
 
 int main (void){
 
-    int var=10;
+    int var=20;
     printf("Hola 5to");
 
     return 0;
